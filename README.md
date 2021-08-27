@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Juan laignelet test
 
 ## 🤓 Course overview and learning outcomes 
 
